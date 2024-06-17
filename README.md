@@ -22,7 +22,7 @@ In this project, we explore a dataset containing various attributes of loan appl
 
 ## Dataset Used
 
-[Dataset](https://drive.google.com/drive/folders/11YNYGl884rMQIy0ryuhQ9hs0lCObYVu2?usp=drive_link)
+[EDA_Loan_Defaulter_Segmentation](https://drive.google.com/drive/folders/11YNYGl884rMQIy0ryuhQ9hs0lCObYVu2?usp=drive_link)
 
 
 ## Getting Started
