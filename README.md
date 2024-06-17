@@ -15,7 +15,7 @@ In this project, we explore a dataset containing various attributes of loan appl
 
 - **Dataset**: Directory to store the dataset used in the analysis.
 - **Notebook**: Jupyter notebooks containing the EDA process and analysis.
-  - `EDA_Loan_Defaulter_Segmentation.ipynb`: 
+  - `EDA_Loan_Defaulter_Segmentation.ipynb`
 - **README.md**: Overview of the project, installation instructions, and usage guidelines.
 
 
