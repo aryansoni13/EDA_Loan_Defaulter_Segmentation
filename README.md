@@ -13,11 +13,17 @@ In this project, we explore a dataset containing various attributes of loan appl
 
 ## Repository Structure
 
-- **data/**: Directory to store the dataset used in the analysis.
-- **notebooks/**: Jupyter notebooks containing the EDA process and analysis.
+- **Data**: Directory to store the dataset used in the analysis.
+- **Dataset Used**: Overview the dataset used in this project.
+- **Notebook**: Jupyter notebooks containing the EDA process and analysis.
   - `EDA_Loan_Defaulter_Segmentation.ipynb`: 
 - **README.md**: Overview of the project, installation instructions, and usage guidelines.
-- **requirements.txt**: List of Python packages required to run the notebooks.
+
+
+## Dataset Used
+
+[Dataset](https://drive.google.com/drive/folders/11YNYGl884rMQIy0ryuhQ9hs0lCObYVu2?usp=drive_link)
+
 
 ## Getting Started
 
